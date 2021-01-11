@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.9b3ac610.chunk.css",
-    "main.js": "/static/js/main.7891fa14.chunk.js",
-    "main.js.map": "/static/js/main.7891fa14.chunk.js.map",
+    "main.js": "/static/js/main.8dafd73c.chunk.js",
+    "main.js.map": "/static/js/main.8dafd73c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
     "runtime-main.js.map": "/static/js/runtime-main.b8b9f84b.js.map",
-    "static/js/2.f63a3071.chunk.js": "/static/js/2.f63a3071.chunk.js",
-    "static/js/2.f63a3071.chunk.js.map": "/static/js/2.f63a3071.chunk.js.map",
+    "static/js/2.f7cce959.chunk.js": "/static/js/2.f7cce959.chunk.js",
+    "static/js/2.f7cce959.chunk.js.map": "/static/js/2.f7cce959.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dac57cb39d77814747cc20b8a4d6e331.js": "/precache-manifest.dac57cb39d77814747cc20b8a4d6e331.js",
+    "precache-manifest.d1d10eb8b8d5cee1c86fcdd5a395089f.js": "/precache-manifest.d1d10eb8b8d5cee1c86fcdd5a395089f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9b3ac610.chunk.css.map": "/static/css/main.9b3ac610.chunk.css.map",
-    "static/js/2.f63a3071.chunk.js.LICENSE.txt": "/static/js/2.f63a3071.chunk.js.LICENSE.txt",
+    "static/js/2.f7cce959.chunk.js.LICENSE.txt": "/static/js/2.f7cce959.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -22,13 +22,12 @@
     "static/media/logo.png": "/static/media/logo.bd90fca8.png",
     "static/media/reactionrole.png": "/static/media/reactionrole.749f6510.png",
     "static/media/rolemessages.png": "/static/media/rolemessages.79916dbc.png",
-    "static/media/rolesets.gif": "/static/media/rolesets.e6876e9d.gif",
-    "static/media/video-placeholder.jpg": "/static/media/video-placeholder.a622fc5d.jpg"
+    "static/media/rolesets.gif": "/static/media/rolesets.e6876e9d.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.b8b9f84b.js",
-    "static/js/2.f63a3071.chunk.js",
+    "static/js/2.f7cce959.chunk.js",
     "static/css/main.9b3ac610.chunk.css",
-    "static/js/main.7891fa14.chunk.js"
+    "static/js/main.8dafd73c.chunk.js"
   ]
 }
